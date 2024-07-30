@@ -1,0 +1,34 @@
+.navbar{
+    position: fixed !important;
+    top: 0;
+    right: 0;
+    left:0;
+    z-index: 999 !important;
+
+}
+.authpage{
+    width: 100%;
+    height: calc(100vh - 56px);
+    background-image: url(https://img.freepik.com/free-photo/arrangement-black-friday-shopping-carts-with-copy-space_23-2148667047.jpg?t=st=1721716747~exp=1721720347~hmac=e116c64c94974b6f620d2eb1239579fe59fb2e5535d223ec35796c86953ed1ad&w=996);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+.form1{
+    background-color: rgb(0,0,0,0,0.5);
+    color: white;
+} 
+.authpage2{
+    width: 100%;
+    height: calc(100vh - 56px);
+    background-image: url(https://img.freepik.com/free-photo/arrangement-black-friday-shopping-carts-with-copy-space_23-2148667047.jpg?t=st=1721716747~exp=1721720347~hmac=e116c64c94974b6f620d2eb1239579fe59fb2e5535d223ec35796c86953ed1ad&w=996);
+    background-position: center;
+    background-size: cover;
+    display: flex ;
+    align-items: center;
+    
+}
+.form2{
+    color: white;
+}
